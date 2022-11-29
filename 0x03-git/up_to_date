@@ -7,3 +7,5 @@ git status (enter) to check the status of your work if the previous works has be
 git commit -m “How to be up to date in git” (enter)
 
 git push
+
+git pull
